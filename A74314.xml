@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for providing maintenance for preaching-ministers, and other pious uses. Die Veneris, 8 Junii, 1649. Ordered by the Commons assembled in Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74314</idno>
+            <idno type="STC">Thomason E1060_36</idno>
+            <idno type="STC">ESTC R208611</idno>
+            <idno type="EEBO-CITATION">99867549</idno>
+            <idno type="PROQUEST">99867549</idno>
+            <idno type="VID">119865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for providing maintenance for preaching-ministers, and other pious uses. Die Veneris, 8 Junii, 1649. Ordered by the Commons assembled in Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 287-298, [1] [i.e. 15] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Parliament of England, and are to be sold at his shop in Fleetstreet, at the sign of the Golden-Dragon, near the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 3D2r: the last word of first line of text: 'been'; first word of line below initial: 'ing' last word of last full line of text: 'Tythes'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>Signatures: 3D-3E⁴.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Salaries, etc. --  Law and legislation --  Early works to 1800.</term>
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Preaching --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119865:1" rendition="simple:additions"/>
+            <p>AN ACT FOR Providing MAINTENANCE for Preaching-Miniſters, And other PIOUS USES.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>Die Veneris, 8 Junii, 1649.</date>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliament'.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England,</hi> and are to be ſold at his Shop in Fleetſtreet, at the Sign of the Golden-Dragon, near the Inner-Temple, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119865:2"/>
+            <pb n="287" facs="tcp:119865:2"/>
+            <head>
+               <hi>Die Veneris,</hi> 8 <hi>Junii,</hi> 1649. AN ACT For providing maintenance for Preaching Miniſters, And other Pious uſes.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas it hath been found by long experi<g ref="char:EOLhyphen"/>ence, That the Go<g ref="char:EOLhyphen"/>vernment of the <hi>Church</hi> of <hi>England</hi> by Arch-Biſhops, Biſhops, their Chancellors &amp; Commiſ<g ref="char:EOLhyphen"/>ſaries, Deans, Deans and Chapters, Arch-Deacons, and other their Officers depend<g ref="char:EOLhyphen"/>ing on that Hierarchy, hath been a great impedi<g ref="char:EOLhyphen"/>ment to the perfect Reformation and growth of Religion, and very prejudicial to the Civil State and Government of the Commonwealth; And therefore hath been by authority of Parliament aboliſhed and taken away, and all their Manors, Lands, Tenements &amp; Hereditaments, appoint<g ref="char:EOLhyphen"/>ed to be ſold for the payment of y<hi rend="sup">e</hi> juſt debts of the Commonwealth, and other neceſſary charges occaſioned by the late Civil War, promoted mainly by, and in favor of the ſaid Hierarchy; ſaving and excepting all Tythes appropriate, Oblations, Obventions, Portions of Tythes
+<pb n="288" facs="tcp:119865:3"/>appropriate, of or belonging to the ſaid Arch-Biſhops, Biſhops, Deans, and Deans and Chapters, and others of the ſaid Hierarchy, and to all and every of them; all which, together with Twenty thouſand pounds yearly Rent belong<g ref="char:EOLhyphen"/>ing to the late King and Crown of <hi>England,</hi> here<g ref="char:EOLhyphen"/>after mentioned, The Commons aſſembled in Parliament, have thought fit to be reſerved and ſetled for a competent maintenance of Preach<g ref="char:EOLhyphen"/>ing Miniſters, in ſuch Cities, Towns and pla<g ref="char:EOLhyphen"/>ces, where it is wanting throughout <hi>England</hi> and <hi>Wales:</hi> Be it therefore Enatted, and it is Enact<g ref="char:EOLhyphen"/>ed and Ordained by this preſent Parliament, and by the authority thereof, That all Tythes appropriate, Oblations, Obventions, Pentions, Portions of Tythes appropriate, Offerings, Fee-farm Rents, iſſuing out of Tythes of the ſaid Archbiſhops and Biſhops, the ſaid Deans, Deans and Chapters, and others of the ſaid Hierarchy, with all and every their appur<g ref="char:EOLhyphen"/>tenances, of what nature and quality ſoever they be, which at any time within ten years be<g ref="char:EOLhyphen"/>fore the beginning of this preſent Parliament were belonging to them, or any of them, which they, or any of them had, held, and enjoyed in the right of his or their Archbiſhopricks, or Biſhopricks, Deanaries, Dignities, Offices, and Functions or places reſpectively, together with all Charters, Deeds, Books, Accompts, Rolls, and other Writings and Evidences what<g ref="char:EOLhyphen"/>ſoever, concerning the premiſes, or any of them belonging thereunto, ſhall from and after the <hi>6<hi rend="sup">th</hi>
+               </hi> day of <hi>January,</hi> which ſhall be in the year <hi>1649.</hi> be veſted and ſetled, and judged and deemed to be, and are hereby in the real and actual poſſeſſi<g ref="char:EOLhyphen"/>on and <hi>ſeiſin</hi> of Sir <hi>Henry Holcroft</hi> Knight, Sir <hi>John Thorowgood</hi> of <hi>Kenſington</hi> Knight; <hi>William
+<pb n="289" facs="tcp:119865:3"/>Steel</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Coke</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Francis Weſt</hi> 
+               <abbr>Eſq</abbr> Lieute<g ref="char:EOLhyphen"/>nant of the Tower, <hi>Henry Danvers</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Brown</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>George Cooper</hi> 
+               <abbr>Eſq</abbr> Mr. <hi>Richard Reed,</hi> Mr. <hi>Richard Yong, William Skinner</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nicholas Marten</hi> 
+               <abbr>Eſq</abbr> and Mr. <hi>John Pocoke,</hi> their Heirs and Aſſigns: And they the ſaid Sir <hi>Henry Holcroft,</hi> Sir <hi>John Thorowgood, William Steel, John Coke, Francis Weſt</hi> Lieutenant of the Tower, <hi>Henry Danvers, John Brown, George Cooper,</hi> Mr. <hi>Richard Reed,</hi> Mr. <hi>Richard Yong, William Skinner, Nicholas Marten,</hi> and <hi>John Pocoke,</hi> and the ſurvivor and ſurvivor of them, and their Heirs and Aſſigns, ſhall have, hold, poſseſs and enjoy, all the ſaid premiſes to them, their Heirs and Aſsigns, with<g ref="char:EOLhyphen"/>out any Entry or other Act whatſoever, and for themſelves, their Leaſees, Farmers and Te<g ref="char:EOLhyphen"/>nants, diſcharged and acquitted of all Titles, Troubles and Incumbrances, as freely, and in as large, ample and beneficial maner, to all intents and purpoſes, as any of the perſons or Corporations whoſe offices or places by any Ordinance or Act of this preſent Parliament, are taken away and aboliſhed, did hold or enjoy, or of right ought to have held or enjoyed, at any time by the ſpace of ten years before the begin<g ref="char:EOLhyphen"/>ning of this Parliament, or at any time ſince any Order or Ordinance, Act or Acts of Parliament to the contrary in any wiſe notwithſtanding. And whereas by Act of Parliament, made the Six and twentieth year of the Reign of the late King <hi>Henry</hi> the Eighth, concerning firſt fruits of of all Eccleſiaſtical Dignities and Livings, pay<g ref="char:EOLhyphen"/>able to the Crown; and alſo concerning one year<g ref="char:EOLhyphen"/>ly Rent of Penſion, amounting to the value of the tenth part of all the Revenues, Rents, Tythes and other profits, as well Spiritual as Temporal, belonging to any Archbiſhoprick,
+<pb n="290" facs="tcp:119865:4"/>Biſhoprick, Abbacy, Monaſtry, Priory, Arch<g ref="char:EOLhyphen"/>deaconry, Deaconry, Cathedral and Collegi<g ref="char:EOLhyphen"/>ate Church, Parſonage, Vicarage, Chantry, or other Benefice or Promotion Spiritual, in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> payable yearly to the King and his Succeſſors; which ſaid Act of Parliament is revived and continued by another Act of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> made <hi>primo Elizabethae,</hi> for reſtitution of firſt-fruits and tenths to the Crown, with ſome al<g ref="char:EOLhyphen"/>terations and additions; and alſo repealing other Acts of <hi>Parliament</hi> touching the ſaid firſt-fruits and tenths; and by the ſaid Statute, uniting and annexing the ſame to the Crown Imperial of the Kingdom of <hi>England</hi> for ever; which Office of Kingſhip is aboliſhed by an Act of this preſent Parliament: Be it therefore Or<g ref="char:EOLhyphen"/>dained, and it is hereby Ordained and Enacted by the authority aforeſaid, That all the ſaid firſt-fruits and tenths, as well Spiritual as Temporal, payable or intended to be paid, by ver<g ref="char:EOLhyphen"/>tue of the ſaid Acts of Parliament of <hi>viceſimo ſexto Henrici 8<hi rend="sup">o</hi>
+               </hi> and <hi>primo Elizabethae,</hi> or either of them, or by vertue of any other Act of <hi>Parliament</hi> made ſince that time, concerning firſt-fruits and tenths, payable unto any Kings or Queens of <hi>England,</hi> other then ſuch firſt-fruits and tenths as are chargeable upon, or iſſuing out of any Lands or poſſeſſions heretofore be<g ref="char:EOLhyphen"/>longing to any Archbiſhops, Biſhops, Deans, Deans and Chapters, or other perſons depend<g ref="char:EOLhyphen"/>ing on that Hierarchy, whoſe Offices and Ti<g ref="char:EOLhyphen"/>tles by any Act or Ordinance of this preſent Parliament are aboliſhed and taken away, ſhall be, and are hereby veſted and ſetled, adjudged and deemed to be, and are hereby in the very real and actual poſſeſſion and ſeiſin of Sir <hi>Henry Hol<g ref="char:EOLhyphen"/>croft,</hi> and the reſt of the abovenamed Truſtees,
+<pb n="291" facs="tcp:119865:4"/>their Heirs and Aſſigns; and they the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, and the Survivors and Survivor of them, and their heirs and aſſigns, ſhall have, hold, poſſeſs and enjoy all the ſaid firſt-fruits and tenths (except before excepted) with their appur<g ref="char:EOLhyphen"/>tenances, to them, their heirs and aſſigns, as free<g ref="char:EOLhyphen"/>ly, and in as large, ample and beneficial maner, to all intents and purpoſes, as the late King at any time during his Reign held and enjoyed the ſame, any Act or Acts of <hi>Parliament</hi> to the con<g ref="char:EOLhyphen"/>trary in any wiſe notwithſtanding. Neverthe<g ref="char:EOLhyphen"/>leſs, in truſt and confidence, and to the intent and purpoſe that they the ſaid Sir <hi>Henry Hol<g ref="char:EOLhyphen"/>croft,</hi> Sir <hi>John Thorowgood, William Steel, John Coke, Francis Weſt</hi> Lieutenant of the Tower, <hi>Henry Danvers, John Brown, George Cooper,</hi> Mr. <hi>Richard Read,</hi> Mr. <hi>Richard Yong, William Skinner, Nicholas Marten,</hi> and Mr. <hi>John Pocoke,</hi> or any five or more of them, and the Survivors and Survivor of them, his and their heirs and aſſigns, ſhall in the firſt place ſatisfie or pay yearly, all ſuch Sal<g ref="char:EOLhyphen"/>laries, Stipends, Allowances and proviſions, as have been limited or appointed for preaching the Goſpel, Preaching Miniſters, or School<g ref="char:EOLhyphen"/>maſters or others in <hi>England</hi> or <hi>Wales,</hi> ſetled or confirmed by Ordinance or Order of <hi>Parliament;</hi> and afterwards ſuch proviſions, ſettlements, yearly allowances and augmentations, as have been made or confirmed by authority derived from this <hi>Parliament,</hi> for preaching Miniſters or Schoolmaſters, for ſo long time, and in ſuch maner as in and by the authority of Parliament is limited, ordered, and appointed; or until the Parliament ſhall otherwiſe order, direct, and appoint the ſame, any Act or Acts, or Ordinance of Parliament to the contrary in any wiſe not<g ref="char:EOLhyphen"/>withſtanding: For which purpoſes the ſum of
+<pb n="292" facs="tcp:119865:5"/>Eighteen thouſand pounds <hi>per annum,</hi> of the ſaid Twenty thouſand pounds, ſhall be diſpoſed of and imployed in lieu of ſuch Augmentation or Maintenance as hath been by authority of Parliament ſetled or given to, or for the Main<g ref="char:EOLhyphen"/>tenance of them out of the Lands of the Deans and Chapters, until the ſum of Eighteen thou<g ref="char:EOLhyphen"/>ſand pounds <hi>per annum,</hi> be raiſed out of the Im<g ref="char:EOLhyphen"/>provements of the Tythes and Impropriations belonging to the ſaid Deans and Chapters, or by ſuch other ways or means as ſhall be hereaf<g ref="char:EOLhyphen"/>ter appointed and directed by authority of <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> and alſo that Two thouſand pounds <hi>per annum</hi> of the ſaid Twenty thouſand pounds, ſhall be diſpoſed, imployed and paid for increaſe of the maintenance of the Maſterſhips of Colledges in both Vniverſities of this Nation, where main<g ref="char:EOLhyphen"/>tenance is not ſufficient: And the ſaid Truſtees, or any five or more of them, the Survivors and Survior of them their heirs and aſſigns, ſhall diſpoſe of all and ſingular the afore<g ref="char:EOLhyphen"/>ſaid Tythes, Firſt-fruits and Tenths, and of every part and parcel thereof, with their ap<g ref="char:EOLhyphen"/>purtenances, and of the Revenues, Rents, Iſſues and profits thereof, to the uſes, intents and purpoſes before expreſſed; and alſo for the maintenance of preaching Miniſters throughout <hi>England</hi> and <hi>Wales,</hi> in ſuch places where ſuch maintenance is wanting in ſuch maner and form, and to ſuch perſons, and for ſuch other good uſes, to the advancement of true Religion, and the maintenance of Piety and Learning, as by this or any other Act or Acts of <hi>Parliament,</hi> now or hereafter to be made, ſhall be ſet down and Declared, and not otherwiſe, nor to any other intent, uſe or purpoſe whatſoever, nor to grant any Leaſe or Eſtate of any the ſaid
+<pb n="293" facs="tcp:119865:5"/>Tythes, and other the premiſes, or any part thereof, for above Six years in poſſeſſion and in being, reſerving thereupon a yearly Rent to the full value thereof; and that all Leaſes, Gifts, Grants, Conveyances, Aſſurances and Eſtates whatſoever, hereafter to be made by the ſaid Truſtees, the Survivors and Survivor of them, or the greater part of them, his and their heirs and aſsigns, other then as aforeſaid, ſhall be utterly void and of none effect, to all intents, conſtructions and purpoſes, Any thing in this Act to the con<g ref="char:EOLhyphen"/>trary in any wiſe notwithſtanding. And be it further Enacted, That the ſeveral and reſpective Receivers of the Revenue of this Commonwealth, for the reſpective Counties in <hi>ENGLAND</hi> and <hi>WALES,</hi> ſhall be, and are hereby required and authorized to receive the ſaid firſt-fruits and tenths, as well Temporal as Eccleſiaſtick, and the ſame from time to time to pay in to the Exchequer; and if any perſon or perſons ſhall refuſe or neglect to pay in his and their firſt-fruits and tenths, as uſually they have done, That then the Barons of the Exchequer are hereby enabled and authorized to iſſue out the like Proceſs, and to proceed in like maner againſt ſuch perſons, as in like caſes they do againſt others. And be it further En<g ref="char:EOLhyphen"/>acted and Declared, That the Committee of the Revenue, and ſuch other perſon or perſons who have, or ſhall have the iſſuing out of ſuch moneys as ſhall be paid in to the Exchequer, are hereby required and enjoyned from time to time to iſſue out and pay the ſaid Firſt-fruits and Tenths, to ſuch perſon or perſons as the ſaid Truſtees, or any five
+<pb n="294" facs="tcp:119865:6"/>or more of them ſhall authorize to receive the ſame, and not to any other uſe, perſon or perſons whatſoever. Provided always, and it is hereby Enacted, That if it ſhall ſo fall out, That all the ſaid Firſt-fruits and Tenths, Spiritual and Temporal, ſet<g ref="char:EOLhyphen"/>tled and veſted by this preſent Act as afore<g ref="char:EOLhyphen"/>ſaid, ſhall not be ſufficient to make up the full ſum of Twenty thouſand pounds <hi>per annum,</hi> to be iſſued out yearly for the uſes and purpoſes beforementioned, That then ſome other part of the yearly Reve<g ref="char:EOLhyphen"/>nue, payable in to the Exchequer, ſhall be provided, ſet out and charged yearly to ſupply the defects and want thereof; ſa<g ref="char:EOLhyphen"/>ving unto all and every perſon and per<g ref="char:EOLhyphen"/>ſons, their Heirs, Executors and Admini<g ref="char:EOLhyphen"/>ſtrators, Bodies Politique and Corporate, and their Succeſſors, other then the perſons and Corporations, and every one of them, whoſe Office or Offices, Dignity, place or places, by any Act or Ordinance of this Parliament are aboliſhed or taken away, his or their Heirs and Succeſſors, All ſuch Right, Title, Intereſt, Poſſeſſion, Claim, Demand, Annuities, Fees, Offices, Rents and other profits, which they or any of them lawfully have, or of right ought to have, or might have had, of, in or to any the Tythes, Impropriations, Rents and Premiſes, or of, in or to any part or parcel thereof, in ſuch like Maner, Form and Condition, to all intents and purpoſes, as if this Act had never been had nor made. Provided always, That after the expira<g ref="char:EOLhyphen"/>tion of the ſeveral and reſpective Leaſes of any of the Impropriations, Tythes
+<pb n="295" facs="tcp:119865:6"/>appropriated, Portions of Tythes appropria<g ref="char:EOLhyphen"/>ted, of or belonging to the late Archbiſhops or Biſhops, Deans, Deans and Chapters, and other Officers depending upon the ſaid Hierarchy, ſuch quantities and proportions of the ſaid Tythes, as ſhall and will, together with the preſent Tythes the Incum<g ref="char:EOLhyphen"/>bent in ſuch Church or Chappel receives (from which the ſaid Tythes were or are appropriated) make the maintenance of the Incumbent in ſuch Church or Chappel, One hundred pounds by the year; and al<g ref="char:EOLhyphen"/>ſo the Tythes appropriate of leſſer value, though they be not ſufficient to make the like maintenance for the Miniſter as a<g ref="char:EOLhyphen"/>foreſaid, ſhall be after the expiration of the reſpective Leaſes, and are by the au<g ref="char:EOLhyphen"/>thority of this preſent Parliament, united and annexed to the ſaid reſpective Churches, and Chappels, for the maintenance of a godly and Orthodox Miniſter in them re<g ref="char:EOLhyphen"/>ſpectively; and where the Impropriate Tythes of the ſaid Archbiſhops and Biſhops, hereby annexed to the reſpective Churches, ſhall not be ſufficient to make up the main<g ref="char:EOLhyphen"/>tenane of the Miniſter there, One hundred pounds by the year, ſuch quantity and pro<g ref="char:EOLhyphen"/>portion of the ſurpluſage, and overplus of the appropriate Tythes or Penſions of the late Biſhops, or Rents that ſhall be reſerved upon the ſame, ſhall be diſpoſed and paid by the ſaid Truſtees, or any five of them, for the making up of the maintenance of the Miniſter in ſuch Church or Chappel One hundred pounds <hi>per annum;</hi> any thing in this preſent Act to the contrary in any wiſe
+<pb n="296" facs="tcp:119865:7"/>notwithſtanding: And to the intent and purpoſe that ſpeedy care and courſe may be taken for providing of a competent mainte<g ref="char:EOLhyphen"/>nance, for ſupply and incouragement of Preaching-Miniſters in the ſeveral Pariſhes in <hi>England</hi> and <hi>Wales,</hi> Be it likewiſe Ordain<g ref="char:EOLhyphen"/>ed and Enacted, That the Lords Commiſ<g ref="char:EOLhyphen"/>ſioners of the Great-Seal of <hi>England</hi> for the time being, ſhall by vertue of this Act, have full power and authority, and are hereby authorized and required, to award and iſſue forth ſeveral Commiſſions under the ſaid Great-Seal, into all and every the counties and cities in <hi>ENGLAND</hi> and <hi>WALES,</hi> to be directed unto ſuch and ſo many perſons, as by the Parliament now aſſembled ſhall be nominated, aſſigned and appointed; thereby Authorizing and Re<g ref="char:EOLhyphen"/>quiring them, or any five or more of them, and giving them full power and authori<g ref="char:EOLhyphen"/>ty, by the Oathes of good and lawful men, as by all other good ways and lawful means, to enquire and finde out the true yearly value of all Parſonages and Vica<g ref="char:EOLhyphen"/>rages preſentative, and of all other Spiri<g ref="char:EOLhyphen"/>tual and Eccleſiaſtical Benefice and Li<g ref="char:EOLhyphen"/>vings, unto which any cure of Souls is annexed, lying and being within ſuch coun<g ref="char:EOLhyphen"/>ties and cities; and of all ſuch particular<g ref="char:EOLhyphen"/>ly to enquire, and certifie unto the Court of Chancery, what each of them are worth truly and really, by the year, and the Names of the preſent Incumbents, Pro<g ref="char:EOLhyphen"/>prietors and Poſſeſſors thereof, and of ſuch perſon and perſons as receive the profits, and to whoſe uſe, and who ſupplies the
+<pb n="297" facs="tcp:119865:7"/>cure, and what he hath for his Salary, and how many Chappels are belonging to Pariſh Churches, and how ſcituate and fit to be united within the Limits of ſuch Counties and Cities within which they are directed and authorized to enquire; and how the ſeveral Churches and Chappels are ſupplyed by Preaching-Miniſters, that ſo courſe may be taken for providing both for preaching, and for Maintenance where the ſame ſhall be found to be needful and neceſſary. And it is hereby further En<g ref="char:EOLhyphen"/>acted, That the ſaid Truſtees, the Sur<g ref="char:EOLhyphen"/>vivors and Survivor of them, or the great<g ref="char:EOLhyphen"/>er part of them, his and their Heirs and Aſ<g ref="char:EOLhyphen"/>ſſigns, ſhall have power, and are hereby au<g ref="char:EOLhyphen"/>thorized to name and appoint ſuch Collectors, Receivers, Treaſurers, and other Officers as they ſhall think fit and convenient, for col<g ref="char:EOLhyphen"/>lecting, Levying, and Receiving of all or any of the ſaid moneys, as alſo for iſſuing out of the ſame for the purpoſes aforeſaid, by Warrant under the Hands of the ſaid Truſtees, their heirs or aſſigns, or any three or more of them, in ſuch maner as they ſhall think fit and appoint; and to call to an accompt from time to time upon Oath, all ſuch Collectors, Treaſurers, and other perſons, who ſhall receive any the Rents, Moneys, and Profits beforemen<g ref="char:EOLhyphen"/>tioned, and to give ſuch fitting and reaſon<g ref="char:EOLhyphen"/>able allowance for the ſame, by yearly ſtipend reſpectively, or otherwiſe as the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, or the greater part of them ſhall think fit, and ſo order and appoint in writing under their Hands.</p>
+            <p>
+               <pb n="298" facs="tcp:119865:8"/>Provided alſo, That this Act, or any thing therein contained, do not at all extend to ad<g ref="char:EOLhyphen"/>nul or make void an Act of this preſent Par<g ref="char:EOLhyphen"/>liament, (entituled, <hi>An Act for the ſetling of the Rectory or Parſonage Houſe of <hi>Burford</hi> in the County of <hi>Oxon,</hi> and ſome of the Gleab-Land on <hi>William Len<g ref="char:EOLhyphen"/>thal</hi> 
+                  <abbr>Eſq</abbr> now Speaker, and his Heirs</hi>) or any thing therein contained, but that the ſame ſhall, and may remain to the ſaid <hi>William Lenthal,</hi> his Heirs and aſſigns for ever accordingly; Any thing in this preſent Act contained to the con<g ref="char:EOLhyphen"/>trary in any wiſe notwithſtanding.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <date>
+                  <hi>Die Veneris,</hi> 8 <hi>Junii,</hi> 1649.</date>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric Parliamenti.</signed>
+            </closer>
+            <pb facs="tcp:119865:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
